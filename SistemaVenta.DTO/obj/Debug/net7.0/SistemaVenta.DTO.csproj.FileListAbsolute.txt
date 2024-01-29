@@ -1,0 +1,12 @@
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\bin\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.dll
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\SistemaVenta.DTO.pdb
+C:\Users\maxio\Downloads\+Programacion\NET\proyectos\06-api-angular-management\backend\APISistemaVentas\SistemaVenta.DTO\obj\Debug\net7.0\ref\SistemaVenta.DTO.dll
